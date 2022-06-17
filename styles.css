@@ -1,4 +1,60 @@
-h1{
+*{
 	background-color: black;
-	color: rebeccapurple;
+	font-family: 'Bebas Neue', cursive;
+}
+
+.famili{
+text-align: center;
+
+}
+
+.botones{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	
+
+}
+
+.hambu{
+width: 300px;
+height: 300px;
+
+}
+
+.nashe{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+
+.pollo{
+	
+	width: 300px;	
+	height: 300px;	
+}
+
+.panchos{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+
+}
+
+.pancho{
+	
+	width: 300px;	
+	height: 300px;
+	
+}
+
+h1{
+	text-align: center;
+	color: aliceblue;
+}
+
+p{
+color: aliceblue;
+;
+
 }
